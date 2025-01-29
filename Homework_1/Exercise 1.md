@@ -14,7 +14,7 @@ The GNU Affero General Public License (AGPL-3.0) ensures that any modifications 
 
 2. "Google Cloud Web3 is developing an enterprise grade software which allows other companies to build their own custom blockchain. Google would like to open source certain libraries for the community to maintain while keeping the core technology proprietary."
 
-The Apache License 2.0 would allow Google to open-source specific libraries while retaining the proprietary nature of its core technology. This license enables permissive use, including modification and redistribution, making it attractive for enterprise community adoption while ensuring credit to Google as the original developer.
+The Apache License 2.0 would allow Google to open-source specific libraries while retaining the proprietary nature of its core technology. This license enables permissive use, including modification and redistribution, while ensuring credit to Google as the original developer.
 
 ## Part C
 
