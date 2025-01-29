@@ -1,9 +1,9 @@
 # Exercise 1
 
 ## Part A
-4. Reviewed Grace, Cesar, JB, and Kathy - everyone
+4. I reviewed Grace, César, Jean-Baptiste, Kathleen, Jinane, Tung, Xuanzheng, Jahad, and Brian
 
-5. I have 341188549858524300 Wei, which is accurate. The amount reported on my metamask is 0.3412 SepoliaETH, which was, as evident in the index.js code, transforms that amount into Wei (10^18 magnitude) for an exact unrounded amount.
+5. I have 341188549858524300 Wei, which is accurate. The amount reported on my metamask is 0.3412 SepoliaETH, which, as evident in the index.js code, was transformed into Wei (10^18 magnitude) for an exact unrounded amount.
 
 ## Part B
 The SPDX is an open standard for formatting for security, license compliance, and other software supply chain artifacts. These include the Specification, the License List, tools, and libraries. It is commonly used by firms, organisations, and communities for efficient exchange of data (both machine- and human-readable), simplifying license management, and fostering trust in open source ecosystems.
