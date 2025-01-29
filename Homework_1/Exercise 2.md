@@ -14,6 +14,6 @@ I then attempted to cast call Kathleen's contract with foundry on the terminal i
 
 ![screenshot](img/Kathleen.png)
 
-Later I called Jinane's contract on Remix (output attached below), which was successful. Incidentally, calling my contract on Remix resulted in a uint256 decimal output rather than hexadecimal.
+Later I called Jinane's contract on Remix (output attached below), which was successful. Incidentally, calling my contract on Remix resulted in the desired decimal output rather than hexadecimal.
 
 ![screenshot](img/Jinane.png)
