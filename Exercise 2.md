@@ -1,10 +1,6 @@
 # Part C - RPC with Foundry Cast (1 + 1 points)
 
-Deployer: 0x0B8efa42a8012C7201163A92b46C6712442466bc
-Deployed to: 0x7D087D71926bF209711D1fB1fC5B600bea753984
-Transaction hash: 0x8ecfe2476ad6702922a4bdf8ce03c8d8897f24ccbf2bf5b472da0cd9742ea48f
-
-wss://ethereum-sepolia-rpc.publicnode.com
+![screenshot](img/deploy.png)
 
 To verify the deployment, I called my own contract and this was the output:
 ![screenshot](img/me.png)
