@@ -1,5 +1,6 @@
-# Part C - RPC with Foundry Cast (1 + 1 points)
+# Exercise 2
 
+## Part C
 
 ![screenshot](img/deploy.png)
 
